@@ -10,7 +10,7 @@ problem." The five pieces connect into one system: Positioning → Promise → P
 Platform. The outcome is a consistent system that builds trust, grows an audience and drives
 revenue, and content stops being a daily obligation.
 
-Worked example: `C:\nvidia notes\hindu paper prompt\VIRAT_IAS_5Ps.md` (2026-09-16), for
+Worked example: a client plan, kept out of this public repo; the sections below are what it follows.
 
 ## Step 0 — collect facts before writing a word
 
